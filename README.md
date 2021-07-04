@@ -1,0 +1,2 @@
+# Strapatski
+Chess engine beginner
